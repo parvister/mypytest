@@ -9,3 +9,4 @@ python -m unittest discover -v
 # Running tests from within the package directory. Example of setting discover root path
 cd packy/arithmetic
 python -m unittest discover -v -t ../..
+cd $(dirname $0)
