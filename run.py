@@ -1,4 +1,4 @@
-from packy.arithmetics.complex import LinearEquation, QuadraticEquation
+from packy.arithmetic.complex import LinearEquation, QuadraticEquation
 import logging
 from time import sleep
 

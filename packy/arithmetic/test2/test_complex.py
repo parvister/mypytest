@@ -4,7 +4,7 @@ Unit tests for the complex arithmetic equations
 
 import unittest
 
-from packy.arithmetics.complex import LinearEquation, QuadraticEquation
+from packy.arithmetic.complex import LinearEquation, QuadraticEquation
 
 
 class ComplexTest(unittest.TestCase):
